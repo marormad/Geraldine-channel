@@ -6,7 +6,7 @@ import re
 import time
 
 # Ticker list
-ticker_list = ["MCD", "MMM", "TFC", "MO", "JNJ", "VZ", "HRL", "O", "ADP", "A3M.BME", "RKT.L", "BRBY.L", "MDLZ", "HSY", "KO", "PEP", "NKE", "UPS", "LYB", "KHC", "ABBV", "CWT", "PG", "CL", "ABT", "WMT"]
+ticker_list = ["MCD", "MMM", "TFC", "MO", "JNJ", "VZ", "HRL", "O", "ADP", "A3M.MC", "RKT.L", "BRBY.L", "MDLZ", "HSY", "KO", "PEP", "NKE", "UPS", "LYB", "KHC", "ABBV", "CWT", "PG", "CL", "ABT", "WMT"]
 
 # Loop to get and download the images from every ticker in the list
 for ticker in ticker_list:
